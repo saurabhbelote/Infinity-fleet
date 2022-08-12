@@ -1136,7 +1136,7 @@ h2{
 .contact .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: #ed3c0d;
+  background: #ffff;
   text-align: left;
   padding: 15px;
   font-weight: 600;
@@ -1414,3 +1414,4 @@ h2{
 .s-header__social svg path {
   fill : white;
 }
+
